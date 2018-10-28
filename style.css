@@ -1,0 +1,66 @@
+.background {
+    background-color: #585858;
+    width: 100%;
+    height: auto;
+}
+
+.title {
+    font-family: 'Press Start 2P', cursive;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 35px;
+    color: #40e0d0;;
+}
+
+.text {
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+    font-size: 16px;
+    color: white;
+    padding: 10px;
+}
+
+.line {
+    background-color: #40e0d0;
+    text-decoration-color: #585858;
+    font-family: 'Quicksand', sans-serif;
+    text-align: left;
+    align-content: center;
+    margin: 15px;
+    margin-bottom: 25px;
+    border-radius: 10px;
+    height: 7px;
+    width: 75px;
+    
+}
+
+.boxes {
+    background-color: #f8f8f8;
+    text-decoration-color: #585858;
+    font-family: 'Quicksand', sans-serif;
+    float: left;
+    padding: 15px;
+    margin: 5px;
+    border-radius: 10px;
+    text-align: left;
+    height: 100px;
+    width: 5px;
+}
+
+.buttons {
+    width: 200px;
+    height: auto;
+    margin-top: 25px;
+    margin: 20px;
+    float: left;
+    border-radius: 3px;
+    
+}
+
+.center{
+    margin-left: 35px;
+}
+
+.buttons:hover {
+    opacity: 0.3;
+}
