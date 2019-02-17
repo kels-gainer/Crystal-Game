@@ -26,8 +26,8 @@ Once you hit ok the game will start over with your wins and loses documented.
 
 Tech Used: 
 
-Html
-Javascript
+Html,
+Javascript,
 Css
 
 
